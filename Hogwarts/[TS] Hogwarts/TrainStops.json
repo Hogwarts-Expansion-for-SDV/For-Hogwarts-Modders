@@ -1,0 +1,14 @@
+{
+  "TrainStops": [
+    {
+      "TargetMapName": "Custom_HogsmeadeStation",
+      "LocalizedDisplayName": {
+        "en": "Hogsmeade Station",
+      },
+      "TargetX": 45,
+      "TargetY": 16,
+      "Cost": 200,
+      "FacingDirectionAfterWarp":-2,
+    },
+  ]
+}
