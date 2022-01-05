@@ -6,6 +6,10 @@
       {
          "Name": "Custom_HogsmeadeStation",
          "FromMapFile": "assets/Maps/HogsmeadeStation.tmx"
+      }, 
+      {
+         "Name": "Custom_HogsmeadeVillage",
+         "FromMapFile": "assets/Maps/HogsmeadeVillage.tmx"
       }
    ],
 }

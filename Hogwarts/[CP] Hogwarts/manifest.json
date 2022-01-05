@@ -1,9 +1,9 @@
 {
-   "Name": "[CP] Hogwarts Expansion",
-   "Author": "Sexynes",
-   "Version": "0.0.1",
-   "Description": "Adds Hogwarts Expansion to SDV",
-   "UniqueID": "Sexynes.CP.Hogwarts",
+   "Name": "Island",
+   "Author": "HisameArtwork&TrentXV",
+   "Version": "3.2.4",
+   "Description": "Adds an Island to SDV",
+   "UniqueID": "FishingIslandNPC",
    "MinimumApiVersion": "1.0",
    "UpdateKeys": [],
    "ContentPackFor": {
