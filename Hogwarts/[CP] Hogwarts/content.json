@@ -10,6 +10,64 @@
       {
          "Name": "Custom_HogsmeadeVillage",
          "FromMapFile": "assets/Maps/HogsmeadeVillage.tmx"
+      }, 
+      {
+         "Name": "Custom_Potions",
+         "FromMapFile": "assets/Maps/Potions.tmx"
       }
    ],
-}
+}, 
+//Potions
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "Potions": "这里陈列了各种各样的魔药。"
+  }
+},
+//Display board
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "Displayboard": "这是一个陈列了魔药名字的展示板。。"
+  }
+},
+//Student table
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "StudentTable": "上面放满了制作魔药所需的材料。"
+  }
+},
+//Teacher table
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "TeacherTable": "这是老师的桌子，希望你不要乱碰。"
+  }
+},
+//Schedule
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "Schedule": "时间表:xxxxx"
+  }
+},
+//Window
+{
+  "Action":"EditData",
+  "Target":"Strings/StringsFromMaps",
+  "Entries": 
+  {
+    "Window": "从外面照进来了微弱的光。"
+  }
+},
