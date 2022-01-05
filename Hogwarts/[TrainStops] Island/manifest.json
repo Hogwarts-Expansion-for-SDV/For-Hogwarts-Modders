@@ -1,9 +1,9 @@
 {
-  "Name": "Mermaid Island [TS]",
-  "Author": "TrentXV",
-  "Version": "1.3.0",
-  "Description": "Adds a tickets to Mermaid Island on the boat ticket machine.",
-  "UniqueID": "TS.MermaidIsland",
+  "Name": "[TS] Hogwarts",
+  "Author": "Hogwarts Expansion Team",
+  "Version": "0.0.1",
+  "Description": "Adds a ticket to Hogsmeade Station on the ticket machine.",
+  "UniqueID": "Sexynes.TS.Hogwarts",
   "ContentPackFor": {
 	"UniqueID": "Cherry.TrainStation"
   }
