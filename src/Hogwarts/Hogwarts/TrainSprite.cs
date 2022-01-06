@@ -17,7 +17,6 @@ namespace Hogwarts
         public static readonly Rectangle PassengerCar2 = new Rectangle(448, 448, 8 * 16, 4 * 16);
         public static readonly Rectangle OpenCargoCar = new Rectangle(320, 512, 8 * 16, 4 * 16);
         public static readonly Rectangle ClosedCargoCar = new Rectangle(192, 512, 8 * 16, 4 * 16);
-        public static readonly uint TrainID = uint.Parse(ModEntry.Instance.ModManifest.UpdateKeys.Where(s => s.Contains("Nexus")).ToArray()[0].Split(':')[1]);
         public static readonly Random Random = Game1.random;
         public Vector2 StartingPosition;
         public string Type;
@@ -33,12 +32,12 @@ namespace Hogwarts
         {
             Location = location;
             monitor.Log("Creating new train sprite.");
-            uint randNum = (uint)Random.Next(1);
+            uint randNum = (uint)Random.Next(2);
             if (randNum == 0)
                 Type = "Passenger";
             else
                 Type = "Cargo";
-            randNum = (uint)Random.Next(1);
+            randNum = (uint)Random.Next(2);
             if (randNum == 0)
             {
                 FacingLeft = true;
@@ -61,7 +60,7 @@ namespace Hogwarts
             for (int i = 1; i <= AmountOfTrainCars; i++)
             {
                 uint position = (uint)(8 * i);
-                uint randomNum = (uint)Random.Next(1);
+                uint randomNum = (uint)Random.Next(2);
                 Rectangle src = new();
                 if (Type == "Passenger")
                     switch (randomNum)
