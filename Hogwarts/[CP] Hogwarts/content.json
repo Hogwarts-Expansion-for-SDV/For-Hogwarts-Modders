@@ -16,4 +16,31 @@
          "FromMapFile": "assets/Maps/Potions.tmx"
       }
    ],
+      "Changes": [
+      {
+         "Action": "EditData",
+         "Target": "Data/ChairTiles",
+         "Entries": {
+            "Trainstation/7/4": "1/1/down/bench/0/0/true",
+            "Trainstation/13/19": "1/1/down/bench/0/0/true",
+            "Trainstation/14/19": "1/1/down/bench/0/0/true",
+            "Trainstation/15/19": "1/1/down/bench/0/0/true",
+            "Trainstation/16/19": "1/1/down/bench/0/0/true",
+            "Trainstation/17/19": "1/1/down/bench/0/0/true",
+            "Trainstation/18/19": "1/1/down/bench/0/0/true"
+          },
+      },
+      {
+         "Action": "EditData",
+         "Target": "Strings/StringsFromMaps",
+         "Entries": {
+            "Potions": "这里陈列了各种各样的魔药。",
+            "Displayboard": "这是一个陈列了魔药名字的展示板。。",
+            "StudentTable": "上面放满了制作魔药所需的材料。",
+            "TeacherTable": "这是老师的桌子，希望你不要乱碰。",
+            "Schedule": "时间表:xxxxx",
+            "FarmMod.5": "从外面照进来了微弱的光。"
+          },
+      }
+   ]
 }
