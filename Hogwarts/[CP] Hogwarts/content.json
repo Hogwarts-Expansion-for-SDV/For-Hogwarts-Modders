@@ -14,6 +14,14 @@
       {
          "Name": "Custom_Potions",
          "FromMapFile": "assets/Maps/Potions.tmx"
+      },
+      {
+         "Name": "Custom_HogwartsEntrance",
+         "FromMapFile": "assets/Maps/HogwartsEntrance.tmx"
+      },
+     {
+         "Name": "Custom_DivinationRoom",
+         "FromMapFile": "assets/Maps/DivinationRoom.tmx"
       }
    ],
       "Changes": [
@@ -27,19 +35,30 @@
             "Trainstation/15/19": "1/1/down/bench/0/0/true",
             "Trainstation/16/19": "1/1/down/bench/0/0/true",
             "Trainstation/17/19": "1/1/down/bench/0/0/true",
-            "Trainstation/18/19": "1/1/down/bench/0/0/true"
+            "Trainstation/18/19": "1/1/down/bench/0/0/true",
+            "1/29/39": "1/1/opposite/bench/0/0/true",
+            "1/30/39": "1/1/opposite/bench/0/0/true",
+            "1/21/54": "1/1/down/bench/0/0/true",
+            "1/22/54": "1/1/down/bench/0/0/true",
           },
       },
       {
          "Action": "EditData",
          "Target": "Strings/StringsFromMaps",
          "Entries": {
-            "Potions": "这里陈列了各种各样的魔药。",
-            "Displayboard": "这是一个陈列了魔药名字的展示板。。",
-            "StudentTable": "上面放满了制作魔药所需的材料。",
-            "TeacherTable": "这是老师的桌子，希望你不要乱碰。",
-            "Schedule": "时间表:xxxxx",
-            "FarmMod.5": "从外面照进来了微弱的光。"
+            //Potions
+          "Potions": "这里陈列了各种各样的魔药。",
+          "PotionsDisplayboard": "这是一个陈列了魔药名字的展示板。",
+          "PotionsStudentTable": "上面放满了制作魔药所需的材料。",
+          "PotionsTeacherTable": "这是老师的桌子，希望你不要乱碰。",
+          "PotionsSchedule": "时间表:xxxxx",
+          "PotionsWindow": "从外面照进来了微弱的光。",
+          //DivinationRoom
+          "DivinationStudentTable1": "上课时用的桌子，桌布上面镶着好看的金边。#不要随便碰水晶球。",
+          "DivinationStudentTable2": "上课时用的桌子，桌面上像落满了星辰。#不要随便碰水晶球。",
+          "DivinationCabinet": "里面放满了茶具。",
+          "CrystalBallShowcase": "里面放着一个粉色的水晶球。",
+          "DivinationTeacherTable": "上面摆着老师演示用的茶杯。"
           },
       }
    ]
