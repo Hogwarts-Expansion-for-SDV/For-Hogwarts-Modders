@@ -1,0 +1,10 @@
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\bin\Debug\.net5\Hogwarts.deps.json
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\bin\Debug\.net5\Hogwarts.dll
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\bin\Debug\.net5\Hogwarts.pdb
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.csproj.AssemblyReference.cache
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.AssemblyInfoInputs.cache
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.AssemblyInfo.cs
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.dll
+C:\Users\harve\Documents\GitHub\For-Hogwarts-Modders\src\Hogwarts\Hogwarts\obj\Debug\.net5\Hogwarts.pdb
